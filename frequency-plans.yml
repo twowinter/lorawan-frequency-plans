@@ -35,6 +35,12 @@
   base-frequency: 915
   file: AU_915_928_FSB_2.yml
 
+- id: CN_470_510_FSB_1
+  name: China 470-510 MHz, FSB 1
+  description: TTN Community Network frequency plan for China, using sub-band 1
+  base-frequency: 470
+  file: CN_470_510_FSB_1.yml
+  
 - id: CN_470_510_FSB_11
   name: China 470-510 MHz, FSB 11
   description: TTN Community Network frequency plan for China, using sub-band 11
